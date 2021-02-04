@@ -1,2 +1,1 @@
-# moSpringboot
-Springboot mini
+springboot项目最简单搭建
